@@ -1,0 +1,1 @@
+export const CONFIG_OPTIIONS = 'CONFIG_OPTIONS';
